@@ -1,4 +1,5 @@
-# FitRec-P3
+# P3-Fitrec
+
 A multi-level deep learning approach that extracts insightful fitness 
 recommendations from a large-scale real fitness dataset gathered from wearable IoT 
 devices. Our model uses machine learning techniques to accurately estimate speed
